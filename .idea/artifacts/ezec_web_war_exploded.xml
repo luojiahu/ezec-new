@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ezec-web:war exploded">
+    <output-path>$PROJECT_DIR$/ezec-web/target/ezec-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ezec-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:unknown" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:unknown" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ezec-web/target/ezec-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ezec-web/web/Web" />
+    </root>
+  </artifact>
+</component>

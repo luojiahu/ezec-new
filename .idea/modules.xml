@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ezec.iml" filepath="$PROJECT_DIR$/ezec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezec-service/ezec-service.iml" filepath="$PROJECT_DIR$/ezec-service/ezec-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezec-web/ezec-web.iml" filepath="$PROJECT_DIR$/ezec-web/ezec-web.iml" />
+    </modules>
+  </component>
+</project>

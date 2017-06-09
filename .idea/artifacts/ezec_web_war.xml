@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ezec-web:war">
+    <output-path>$PROJECT_DIR$/ezec-web/target</output-path>
+    <root id="archive" name="ezec-web.war">
+      <element id="artifact" artifact-name="ezec-web:war exploded" />
+    </root>
+  </artifact>
+</component>
